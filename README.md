@@ -9,16 +9,15 @@ From leveraging SQL for data exploration to using Tableau for interactive and in
 -->
 ## Project
 ### Amazon Sales Analysis
-**What is a repository?**
-* Folder: [`Amazon Sales Analysis`](https://github.com/qingyayu/SQL_Tableau_Project/tree/main/Amazon%20Sales%20Analysis)
-* Objectives:
+* **Folder**: [`Amazon Sales Analysis`](https://github.com/qingyayu/SQL_Tableau_Project/tree/main/Amazon%20Sales%20Analysis)
+* **Objectives**:
   Analyze Amazon's sales performance in India during Q2 2022 to uncover insights into regional trends, product categories, customer types, shipping methods, and top-performing products. The project combines Python and SQL for data preparation, and Tableau for visualization.
-* Key Points
+* **Key Points**
   + Processed and cleaned sales data to derive insights on categories, revenue trends, shipping methods, and top-performing products.
   + Created six detailed Tableau dashboard sections featuring maps, bar charts, line charts, bubble charts, and point charts to explore diverse aspects of sales performance.
   + Identified key findings, including regional revenue leaders, expedited shipping preferences, and dominant product categories like Sets and Western Dresses.
   + Incorporated advanced analytics with SQL queries to structure and prepare the dataset for visualization.
-* Technical Details
+* **Technical Details**
   + Tools
     1. Excel - raw data view;
     2. Python - clean raw data and import processed data into MySQL database management system;
