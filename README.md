@@ -7,10 +7,15 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# SQL and Tableau Projects
 
-_Get started using GitHub in less than an hour._
+_Welcome to my SQL and Tableau Projects repository! This space showcases my skills in data analysis, database management, and data visualization. Currently, it features a project that explores "Amazon Sales", highlighting my ability to derive actionable insights and present them through interactive visualizations.
+_
+<!--
+Welcome to my SQL and Tableau Projects repository! This collection highlights my expertise in data analysis, database management, and data visualization. These projects reflect my experience from academic, professional, and personal initiatives, exploring diverse datasets and translating complex data into actionable insights.
 
+From leveraging SQL for data exploration to using Tableau for interactive and insightful visualizations, each project demonstrates my commitment to data-driven decision-making. Feel free to explore the projects below, each offering a unique take on solving real-world problems through data.
+-->
 </header>
 
 <!--
