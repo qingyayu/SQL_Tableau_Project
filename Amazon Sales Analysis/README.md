@@ -40,9 +40,9 @@ The ultimate objective was to distill actionable insights for decision-makers to
     A detailed bar chart highlights the top 10 products, with SKUs, categories, sizes, and colors. The list is dominated by 4 "Sets" and 6 "Western Dresses," reflecting strong consumer demand and providing actionable insights for managing high-performing inventory.
 
 ## Files Included in the Repository
-[`Step1_Create SQL Database Tables.sql`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Step1_Create%20SQL%20Database%20Tables.sql): SQL script for creating the database schema.
-[`Step2_Clean Data and Import Data to MySQL.py`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Step2_Clean%20Data%20and%20Import%20Data%20to%20MySQL.py): Python script for cleaning the raw data and importing processed data into MySQL Workbench.
-[`Step3_Analyze Data.SQL`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Step3_Analyze%20Data.SQL): SQL script containing the queries used for data exploration.
-[`Amazon Sales Analysis.twb`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Amazon%20Sales%20Analysis.twb): Tableau workbook with dashboards for all visualizations.
-[`Amazon Sales Analysis.png`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Amazon%20Sales%20Analysis.png): Image version of the Tableau workbook.
-[`README.md.twb`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/README.md): This file with project details.
+ * [`Step1_Create SQL Database Tables.sql`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Step1_Create%20SQL%20Database%20Tables.sql): SQL script for creating the database schema.
+ * [`Step2_Clean Data and Import Data to MySQL.py`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Step2_Clean%20Data%20and%20Import%20Data%20to%20MySQL.py): Python script for cleaning the raw data and importing processed data into MySQL Workbench.
+ * [`Step3_Analyze Data.SQL`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Step3_Analyze%20Data.SQL): SQL script containing the queries used for data exploration.
+ * [`Amazon Sales Analysis.twb`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Amazon%20Sales%20Analysis.twb): Tableau workbook with dashboards for all visualizations.
+ * [`Amazon Sales Analysis.png`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/Amazon%20Sales%20Analysis.png): Image version of the Tableau workbook.
+ * [`README.md.twb`](https://github.com/qingyayu/SQL_Tableau_Project/blob/main/Amazon%20Sales%20Analysis/README.md): This file with project details.
