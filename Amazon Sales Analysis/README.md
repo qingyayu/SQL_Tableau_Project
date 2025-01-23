@@ -4,8 +4,8 @@ In today's competitive e-commerce landscape, gaining insights into sales perform
 ## Overview
 This project utilized the "E-Commerce Sales Dataset" sourced from Kaggle. The dataset provides an in-depth look at the profitability of e-commerce sales. It contains data on SKU codes, sales channels, ship service levels, product categories, sizes, colors, etc. By analyzing these data points, the project explores patterns that provide a comprehensive understanding of sales dynamics.
 
-Dataset: [E-Commerce Sales Dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data/data)
-Tableau Public workbook: [Amazon Sales Analysis](https://public.tableau.com/app/profile/qingya.yu/viz/AmazonSalesAnalysis_17375797226230/AmazonSalesAnalysis?publish=yes)
+ - Dataset: [E-Commerce Sales Dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data/data)
+ - Tableau Public workbook: [Amazon Sales Analysis](https://public.tableau.com/app/profile/qingya.yu/viz/AmazonSalesAnalysis_17375797226230/AmazonSalesAnalysis?publish=yes)
 
 ## Objectives and Key Questions
 This analysis focused on answering these core questions:
